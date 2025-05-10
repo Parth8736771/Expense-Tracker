@@ -70,7 +70,6 @@ sort($expenseNames);
                         <td style="color: <?= $rowTotal < 0 ? 'green' : 'red' ?>;">
                             <strong><?= number_format($rowTotal) ?></strong>
                         </td>
-                        <td></td>
                     </tr>
                 <?php endforeach; ?>
             </tbody>
