@@ -10,6 +10,12 @@ Interactive Table View: Expenses are shown in a grid where each row represents a
 
 https://github.com/Parth8736771/Expense-Tracker/issues/1#issue-3053866394
 
+---
+
+![Expense Tracker](https://github.com/Parth8736771/Expense-Tracker/issues/1#issue-3053866394/image.png)
+
+![Expense Tracker](https://github.com/Parth8736771/Expense-Tracker/issues/1#issue-3053866394)
+
 Add Expenses Easily: Clicking on a date column header opens a popup window that displays existing expenses for that date and allows users to add new ones.
 ![alt text](https://github.com/Parth8736771/Expense-Tracker/issues/1#issue-3053866394/image-1.png)
 
