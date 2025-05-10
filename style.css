@@ -92,13 +92,3 @@ tfoot {
     font-size: 20px;
     cursor: pointer;
 }
-
-/* <?= $amount == 0 ? 
-                                    "$amount <button onclick=\"editEntry('$name', '$date', $amount)\">✏️</button>
-                                            <button onclick=\"deleteEntry('$name', '$date')\">🗑️</button>"
-                                    : '0'
-                                ?> */
-
-/* Adding Edit and delete button in each cell
-<button onclick=\"editEntry('$name', '$date', $amount)\">✏️</button>
-                                            <button onclick=\"deleteEntry('$name', '$date')\">🗑️</button>" */
